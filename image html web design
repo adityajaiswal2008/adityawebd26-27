@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>image</title>
+</head>
+<body>
+    <p> Aditya</p>
+    <h1> Welcome Everyone</h1>
+    <h2> Feel Nature</h2>
+    <img src="images.jpg" alt="image logo" width="211" height="211">
+</body>
+</html>
